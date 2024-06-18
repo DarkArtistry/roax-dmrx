@@ -59,16 +59,16 @@ ROAX supports a range of applications, including:
 
 These applications highlight the versatility and broad utility of the ROAX platform.
 
-## Contributing
-
-We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) for more information on how to get involved.
-
 ## License
 
-ROAX is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+To protect this decentralised ecosystem and community,
+
+
+
+The [Business Source License](https://github.com/DarkArtistry/roax-dmrx/blob/main/LICENSE) (this document, or the "License") is not an Open Source license. However, the Licensed Work will eventually be made available under an Open Source License, as stated in this License.
 
 ## Contact
 
-For more information, please contact us at [support@roax.org](mailto:support@roax.org).
+For more information, please contact us at [zhenhao.goh@comp.nus.edu.sg](mailto:zhenhao.goh@comp.nus.edu.sg).
 
 
