@@ -1,5 +1,7 @@
 # ROAX: Rod of Asclepius eXchange
 
+[ROAX-whitepaper / "greenpaper"](https://github.com/DarkArtistry/roax-dmrx/blob/main/ROAX-greenpaper.pdf)
+
 A platform for doctors, medical professionals and patients to store verifiable medical records in a more secure, compliant and privacy preserving manner.
 
 ## Introduction
