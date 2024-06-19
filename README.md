@@ -8,7 +8,7 @@ Feel free to contact me for more questions: https://twitter.com/KernelKennethG o
 
 We are looking for people to build this community together.
 
-[ROAX-whitepaper / "greenpaper"](https://github.com/DarkArtistry/roax-dmrx/blob/main/ROAX-greenpaper.pdf)
+[ROAX-whitepaper / "greenpaper"](https://github.com/DarkArtistry/roax-dmrx/blob/main/ROAX-greenpaper-version3.pdf)
 
 A platform for doctors, medical professionals and patients to store verifiable medical records in a more secure, compliant and privacy preserving manner.
 
