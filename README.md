@@ -1,5 +1,7 @@
 # ROAX: Rod of Asclepius eXchange
 
+A platform for doctors, medical professionals and patients to store verifiable medical records in a more secure, compliant and privacy preserving manner.
+
 NOTE: I was the lead engineer to launch one of Singapore's First Telemedicine App, going through the government sandbox for telemedicine and liasing with hospitals and clinics across the island. The app was used by many users. The code base was also part of Vietnam's national telemedicine app during the pandemic.
 I was also the core payments engineer for one of Singapore's largest online payments company. My partner, Ansel, that will be contributiong to this project is a Medical Doctor that has a Postgraduate for Computing and also a Post Graduate in Analytics.
 I've have used the NUS research Library to do a thorough research before writing this paper. So if you think the technology is normal, it isn't.
@@ -9,8 +11,6 @@ Feel free to contact me for more questions: https://twitter.com/KernelKennethG o
 We are looking for people to build this community together.
 
 [ROAX-whitepaper / "greenpaper"](https://github.com/DarkArtistry/roax-dmrx/blob/main/ROAX-greenpaper-version3.pdf)
-
-A platform for doctors, medical professionals and patients to store verifiable medical records in a more secure, compliant and privacy preserving manner.
 
 ## Introduction
 
